@@ -1,0 +1,14 @@
+plugins:
+  - jekyll-feed
+  
+
+theme: minima
+
+header_pages:
+  - page-one.md
+
+author: "Adolfo Ramírez Corona"
+email: "adolforamirez@gmail.com"
+  
+medium_username: adolforismos
+twitter_username: adolforismos
