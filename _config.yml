@@ -2,7 +2,7 @@ plugins:
   - jekyll-feed
   
 
-theme: jekyll-theme-minimal
+theme: minimal
 
 title: [apparatum.xyz]
 description: [UX Design, Content and Digital Marketing Consultancy]
