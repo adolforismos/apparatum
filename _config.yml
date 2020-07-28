@@ -2,10 +2,15 @@ plugins:
   - jekyll-feed
   
 
-theme: minima
+theme: jekyll-theme-minimal
 
-header_pages:
-  - page-one.md
+title: [apparatum.xyz]
+description: [UX Design, Content and Digital Marketing Consultancy]
+logo: [Location of the logo]
+# show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+# google_analytics: [Your Google Analytics tracking ID]
+
+
 
 author: "Adolfo Ramírez Corona"
 email: "adolforamirez@gmail.com"
