@@ -1,5 +1,5 @@
 ---
-
+layout: default
 ---
 # Mechanisms, Behaviors, Functions and Concepts
 
