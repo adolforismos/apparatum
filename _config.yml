@@ -1,9 +1,4 @@
-plugins:
-  - jekyll-feed
-  
-
-# theme: jekyll-theme-minimal
-
+theme: jekyll-theme-minimal
 title: [apparatum.xyz]
 description: [UX Design, Content and Digital Marketing Consultancy]
 logo: [Location of the logo]
@@ -12,10 +7,9 @@ logo: [Location of the logo]
 
 
 
-author: "Adolfo Ramírez Corona"
-email: "adolforamirez@gmail.com"
+# author: "Adolfo Ramírez Corona"
+# email: "adolforamirez@gmail.com"
   
-medium_username: adolforismos
-twitter_username: adolforismos
+# medium_username: adolforismos
+# twitter_username: adolforismos
 
-theme: jekyll-theme-minimal
