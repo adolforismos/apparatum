@@ -13,11 +13,11 @@
 
 # What we do?
 
-### UX Content Writing • UX Design • Development • Information and Communications Technologies • Research
+## UX Content Writing • UX Design • Development • Information and Communications Technologies • Research
 
 ## We are specialized in
 
-### Writing • Research • Audience • Users • Media • Human Behavior • Psychology
+## Writing • Research • Audience • Users • Media • Human Behavior • Psychology
 
 ## Our areas of expertise
 
@@ -25,4 +25,4 @@
 
 ## Clients
 
-## Ex Teresa Arte Actual • Laboratorio Arte Alameda • HN Consultores • Universidad Innova • Sistema Público de Radiodifusión del Estado Mexicano
+## [Ex Teresa Arte Actual](http://www.exteresa.bellasartes.gob.mx/)  • [Laboratorio Arte Alameda](http://www.artealameda.bellasartes.gob.mx/) • [HN Consultores](https://hnconsultores.com) • [Universidad Innova](https://innova.edu.mx) • [Sistema Público de Radiodifusión del Estado Mexicano](http://www.spr.gob.mx/)
